@@ -1,13 +1,15 @@
 {
   "name": "pa-react-modal",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Simple React Modal that can be used as component in your project",
   "main": "build/index.js",
   "module": "build/index.js",
-  "keywords": [    "react",
-  "components",
-  "ui",
-  "modal"],
+  "keywords": [
+    "react",
+    "components",
+    "ui",
+    "modal"
+  ],
   "author": "Pierre Abraham",
   "license": "MIT",
   "private": false,
@@ -17,7 +19,7 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
     "styled-components": "^6.1.0",
     "web-vitals": "^2.1.4"
   },
@@ -27,7 +29,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "babel src -d dist",
+    "build": "rm -rf build && cross-env NODE_ENV=production babel src/lib --out-dir build --copy-files",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
