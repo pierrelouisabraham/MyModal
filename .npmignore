@@ -10,7 +10,7 @@ yarn-error.log
 /coverage
 
 # Ignore build and config files
-/build
+/dist
 /webpack.config.js
 .babelrc
 .eslintignore
