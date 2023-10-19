@@ -1,0 +1,19 @@
+# Ignore commonly unnecessary files
+/node_modules
+npm-debug.log
+yarn-error.log
+
+# Ignore development and testing files
+/test
+/tests
+/test-data
+/coverage
+
+# Ignore build and config files
+/dist
+/build
+/webpack.config.js
+.babelrc
+.eslintignore
+.eslintrc
+.stylelintrc
