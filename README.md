@@ -1,7 +1,7 @@
 ## Installation
 
 ```
-npm install MyModal
+npm i pa-react-modal
 ```
 ## Example
 
