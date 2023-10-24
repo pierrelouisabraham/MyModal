@@ -6,8 +6,8 @@ npm i pa-react-modal
 ## Example
 
 ```js
-import Modal from 'MyModal'
-import { useState } from 'react'
+import MyModal from 'pa-react-modal';
+import { useState } from 'react';
 
 const AppModal = () => {
   const [isOpen, setIsOpen] = useState(false);
