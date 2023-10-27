@@ -1,6 +1,6 @@
 {
   "name": "pa-react-modal",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "description": "Simple React Modal that can be used as component in your project",
   "main": "build/index.js",
   "module": "build/index.js",
