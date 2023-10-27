@@ -1,3 +1,11 @@
+<a href="https://www.npmjs.com/package/pa-react-modal"><img alt="npm" src="https://img.shields.io/npm/dw/pa-react-modal"></a>
+<a href="https://www.npmjs.com/package/pa-react-modal"><img alt="npm" src="https://img.shields.io/npm/v/pa-react-modal"></a>
+<a href="https://www.npmjs.com/package/pa-react-modal"><img alt="npm bundle size" src="https://img.shields.io/bundlephobia/minzip/pa-react-modal"></a>
+<a href="https://www.npmjs.com/package/pa-react-modal">
+<img alt="Maintenance Status" src="https://img.shields.io/badge/maintenance-active-green.svg" />
+</a>
+
+
 ## Installation
 
 ```
